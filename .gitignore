@@ -10,3 +10,5 @@ gen
 target
 *.txt
 *.jpg
+src/*.txt
+sec/*.jpg
