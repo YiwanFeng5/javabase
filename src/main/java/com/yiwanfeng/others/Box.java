@@ -1,4 +1,4 @@
-package com.yiwanfeng;
+package com.yiwanfeng.others;
 
 /***
  * 定义一个泛型类

@@ -1,4 +1,4 @@
-package com.yiwanfeng;
+package com.yiwanfeng.others;
 
 public class DataBaseUtils {
 

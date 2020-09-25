@@ -1,4 +1,4 @@
-package com.yiwanfeng;
+package com.yiwanfeng.others;
 
 /***
  * 有界的类型参数:

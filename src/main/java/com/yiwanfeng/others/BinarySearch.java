@@ -1,15 +1,9 @@
-package com.yiwanfeng;
+package com.yiwanfeng.others;
 
 import java.util.Arrays;
 import java.util.Random;
 
-/**
- * Project Name: javabase
- * Class Name: BinarySearch
- * Author: YiwanFeng
- * Create Time: 2020/4/6
- * Simple Description: 二分查找 时间复杂度O(log2n);空间复杂度O(1)
- */
+
 public class BinarySearch {
 
     private static void binarySearch(int[] data, int left, int right, int findVal) {

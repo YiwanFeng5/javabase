@@ -1,4 +1,4 @@
-package com.yiwanfeng;
+package com.yiwanfeng.others;
 
 /**
  * 泛型方法打印不同字符串的元素
